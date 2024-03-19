@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anitha</h1>
 <h3 align="center">A Passionate Dot Net Developer</h3>
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anitha2962&label=Profile%20views&color=0e75b6&style=flat" alt="anitha2962" /> </p>
 
